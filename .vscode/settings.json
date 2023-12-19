@@ -1,0 +1,23 @@
+{
+  "torizon_login": "",
+  "torizon_ip": "",
+  "host_ip": "",
+  "torizon_workspace": "${workspaceFolder}",
+  "torizon_debug_port": "",
+  "torizon_debug_ssh_port": "2223",
+  "torizon_debug_port2": "",
+  "torizon_debug_port3": "",
+  "torizon_gpu": "",
+  "torizon_arch": "",
+  "wait_sync": "1",
+  "torizon_run_as": "torizon",
+  "torizon_app_root": "/home/torizon",
+  "tcb.packageName": "testProject",
+  "tcb.version": "3.8.1",
+  "omnisharp.useModernNet": true,
+  "dotnet.server.useOmnisharp": true,
+  "docker.environment": {
+    "DOCKER_HOST": "tcp://colibri-imx8x-07202700:2375"
+  },
+  "torizon_psswd": "",
+}
