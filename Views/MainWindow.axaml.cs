@@ -1,12 +1,12 @@
 using Avalonia.Controls;
-using Avalonia.Markup.Xaml;
 
-namespace testProject.Views;
-
-public partial class MainWindow : Window
+namespace testProject.Views
 {
-    public MainWindow()
+    public partial class MainWindow : Window
     {
-        InitializeComponent();
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
     }
 }
